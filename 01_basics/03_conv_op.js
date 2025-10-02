@@ -7,3 +7,8 @@ console.log(typeof(x))
 // par uske andar Nan hoga to nikal ke dekhna padega kya convert kari
 // NULL ko 0 sai convert karega
 // string boolan sabme pahla char capital
+// operations *******************************
+x=5;
+z=-x;
+console.log(x ,z)
+console.log(2**3);
